@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import Home from './Component/Home/Home';
 import Topics from './Component/Topics/Topics';
 import Main from './Layout/Main';
+import Blog from './Component/Blog/Blog';
 import './App.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
