@@ -1,8 +1,10 @@
 import logo from './logo.svg';
+import AllQuiz from './Component/AllQuiz/AllQuiz';
 import Home from './Component/Home/Home';
 import Topics from './Component/Topics/Topics';
 import Main from './Layout/Main';
 import Blog from './Component/Blog/Blog';
+import Error from './Component/Error/Error';
 import './App.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
