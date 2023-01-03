@@ -1,0 +1,12 @@
+.topics-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    margin: 20px;
+}
+@media screen and (max-width:600px) {
+    .topics-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
