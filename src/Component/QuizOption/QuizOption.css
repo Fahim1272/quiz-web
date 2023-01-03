@@ -1,0 +1,12 @@
+.option-container{
+    background-color: blanchedalmond;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.option-container:hover{
+    background-color: indigo;
+    color: white;
+}
