@@ -5,6 +5,7 @@ import Topics from './Component/Topics/Topics';
 import Main from './Layout/Main';
 import Blog from './Component/Blog/Blog';
 import Error from './Component/Error/Error';
+import Statistic from './Component/Statistic/Statistic';
 import './App.css';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
