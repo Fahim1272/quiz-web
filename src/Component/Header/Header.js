@@ -11,7 +11,6 @@ const Header = () => {
                 
             >
                 <Navbar.Brand href="https://flowbite.com/">
-                    
                     <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
                         Quiz Hunter
                     </span>
