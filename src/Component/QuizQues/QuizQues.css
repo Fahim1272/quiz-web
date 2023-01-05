@@ -1,0 +1,12 @@
+.ques-container{
+    background-color: cornflowerblue;
+    border: 3px dotted indigo;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    
+
+}
+.ques-icon:hover{
+    color: black;
+}
